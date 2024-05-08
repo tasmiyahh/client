@@ -1,75 +1,12 @@
 import logo from './logo.svg';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import 'bootstrap/dist/js/bootstrap.bundle.min.js';
-import 'bootstrap-icons/font/bootstrap-icons.css';
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <div class="container ">
-        {/* <div class="main-sec">
 
-          <div class="col-sm-12 col-md-8 col-lg-8 mt-4" ><h3 className='head-color' >Reliable Visa Services Agency in the UAE</h3><p>
-            In order to legally live in the UAE as a foreigner, you must obtain a relevant visa for yourself, your family, employees,
-            partners, etc. While the United Arab Emirates has created a seamless and clear-cut visa process in order to attract
-            foreign investment, is still does require quite a bit of time, money, paperwork, and documentation. At Indus Business
-            Services, we are here to make visa processing as easy as possible! We help you get officially settled in Dubai by
-            taking care of all the paperwork and legal procedures, so that you and your family can obtain your visa as soon as
-            possible! We are well-versed in the processing procedures of all types of Dubai-based visas,
-            including family visa, employment visa, visit visa, investor visa, golden visa, and more.
-            We can deftly identify the type of visa you are eligible for, and then walk you through each step of the
-            process for a smooth visa processing experience!</p>
-
-            <div class="row" >
-
-
-              <div class="col-sm-5 col-md-5 col-lg-5 mt-4">
-                <p className='head-color'>  <h4>
-                  GET THE BEST VISA SERVICES IN DUBAI <br />
-                  GET FREE CONSULTATION</h4></p>
-
-
-              </div>
-              <div class="col-sm-2 col-md-2 col-lg-4 mt-4">
-                <button className='button-color-2'>call now</button>
-
-
-
-              </div>
-            </div>
-
-
-
-
-          </div>
-
-
-
-
-          <div class="col-sm-12 col-md-3 col-lg-3 border mt-4 mb-4 rounded-top" >
-
-            <div class="mb-3 ml-3" >
-
-              <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Name" />
-            </div>
-            <div class="mb-3">
-
-              <input type="number" class="form-control" id="formGroupExampleInput2" placeholder="Phone" />
-            </div>
-            <div class="mb-3">
-
-              <input type="email" class="form-control" id="formGroupExampleInput2" placeholder="Email" />
-            </div>
-            <div class="mb-3">
-              <textarea class="form-control" id="exampleFormControlTextarea1" rows="3">Message</textarea>
-            </div>
-            <div class="mb-3">
-              <button type="submit" class="btn  mb-3" className='button-color'>submit</button>
-            </div>
-          </div>
-        </div> */}
-
+    
 
         <div className="main-section">
 
@@ -321,7 +258,7 @@ function App() {
           </p>
         </div>
 
-      </div>
+  
     </div>
   );
 }
